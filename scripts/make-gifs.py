@@ -1,4 +1,4 @@
-# Thu nhỏ + bo góc GIF Tenor (nguồn ghi trong README). Chạy trong thư mục chứa GIF gốc.
+# Thu nhỏ + bo góc GIF. Chạy trong thư mục chứa GIF gốc.
 from PIL import Image, ImageDraw, ImageSequence
 import sys,os
 def proc(src,dst,size,crop=None,radius=0,circle=False,step=1,colors=128):
