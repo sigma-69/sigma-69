@@ -1,4 +1,4 @@
-# Thu nhỏ + bo góc GIF Tenor (nguồn ghi trong README). Chạy trong thư mục chứa GIF gốc.
+# Thu nhỏ + bo góc GIF. Chạy trong thư mục chứa GIF gốc.
 from PIL import Image, ImageDraw, ImageSequence
 import sys,os
 def proc(src,dst,size,crop=None,radius=0,circle=False,step=1,colors=128):
@@ -23,4 +23,4 @@ def proc(src,dst,size,crop=None,radius=0,circle=False,step=1,colors=128):
     frames[0].save(dst,save_all=True,append_images=frames[1:],duration=durs,loop=0,transparency=colors-1,disposal=2,optimize=False)
     print(dst,len(frames),os.path.getsize(dst)//1024,'KB')
 O='/workspace/sigma-69-profile/assets/'
-proc('p3cGkcctD1EAAAAC.gif',O+'miku-tea.gif',(280,158),crop=(0,40,498,320),radius=14)
+proc('miku-tea-src.gif',O+'miku-tea.gif',(280,158),crop=(0,40,498,320),radius=14)

@@ -9,7 +9,9 @@
 </p>
 
 <p align="center">
-  <img src="assets/miku-tea.gif" width="320" alt="Miku uống trà">
+  <img src="assets/miku-1.jpg" width="176" alt="Nakano Miku">
+  <img src="assets/miku-tea.gif" width="320" alt="Miku">
+  <img src="assets/miku-2.jpg" width="200" alt="Nakano Miku">
 </p>
 
 <br>
@@ -32,13 +34,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github-act-graph.rodriaum.com/graph?username=sigma-69&amp;bg_color=eef5fb&amp;color=4c6582&amp;title_color=2f86b0&amp;line=2f86b0&amp;point=14244a&amp;area=true&amp;area_color=7fb3d5&amp;hide_border=true&amp;radius=12&amp;custom_title=contributions&amp;height=300">
   <img alt="activity graph" src="https://github-act-graph.rodriaum.com/graph?username=sigma-69&amp;bg_color=0c1733&amp;color=a6c2dc&amp;title_color=4fb3d9&amp;line=4fb3d9&amp;point=eaf4ff&amp;area=true&amp;area_color=2f86b0&amp;hide_border=true&amp;radius=12&amp;custom_title=contributions&amp;height=300" width="100%">
 </picture>
-
-<p align="center"><sub><sup>ảnh &amp; gif từ anime 五等分の花嫁 © Negi Haruba · Kodansha / 「五等分の花嫁」製作委員会 · fan use</sup></sub></p>
-
-<!--
-header.png ← khung hình ~0:17 trong PV chính thức「五等分の花嫁∬」キャラクターPV（三玖ver.）của kênh TBSアニメ
-             https://www.youtube.com/watch?v=liu1UoRhB_Q (cắt 1600×500, bỏ phụ đề + logo TBS, bo góc)
-gif lấy từ Tenor, đã thu nhỏ + bo góc (scripts/make-gifs.py), là cảnh trong anime:
-miku-tea.gif ← https://media1.tenor.com/m/p3cGkcctD1EAAAAC/miku-quintessential.gif
-activity graph: github-act-graph.rodriaum.com (fork của Ashutosh00710/github-readme-activity-graph, host gốc trên vercel đang tắt)
--->
